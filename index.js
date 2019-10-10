@@ -13,4 +13,4 @@ lib.setup(bot);
 
 module.exports.bot = bot;
 
-bot.login(token);
+bot.login('NTU5MzgxNTI1MTI5NTkyODM5.XZ74CA.RwOFk6ldbs7g4JT88sIPCippedw');
